@@ -29,3 +29,9 @@ Linux, MaxOs
 ```sh
 rm <filename>
 ```
+
+Переход к другим состояниям
+
+```sh
+git checkout <comitname>
+```
