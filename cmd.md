@@ -18,6 +18,10 @@ Linux, MaxOs
 ```sh
 ls
 ```
+Создание новой директории
+```sh
+mkdir <direname>
+```
 Создание файла
 ```sh
 touch <filename>
