@@ -18,6 +18,11 @@ Linux, MaxOs
 ```sh
 ls
 ```
+Создание файла
+```sh
+touch <filename>
+```
+
 Удаление файла
 
 Windows
