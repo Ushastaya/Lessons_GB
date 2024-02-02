@@ -77,6 +77,10 @@ git log
 ```sh
 git log --onelime
 ```
+Просмотр всех комитов с слияниями
+```sh
+git log --onelime --graph
+```
 Переход к другим состояниям
 ```sh
 git checkout <comit_name>
