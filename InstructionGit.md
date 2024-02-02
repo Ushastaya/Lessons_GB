@@ -31,7 +31,7 @@ dir
 ```
 Создание новой директории
 ```sh
-mkdir <direname>
+mkdir <dir_name>
 ```
 Показывает текущее состояние репозитория
 ```sh
@@ -41,19 +41,19 @@ mkdir <direname>
 
 Создание файла
 ```sh
-touch <filename>
+touch <file_name>
 ```
 Удаление файла
 ```sh
-del <filename>
+del <file_name>
 ```
 Копирование файла
 ```sh
-cp <filename>
+cp <file_name>
 ```
 Переименовать файл
 ```sh
-mv <filename> <newfilename>
+mv <file_name> <new_file_name>
 ```
 Просмотр изменений файла
 ```sh
@@ -63,7 +63,7 @@ git diff
 
 Добавление изменения для отслеживания гитом
 ```sh
- git add <filename>
+ git add <file_name>
 ```
 Создание комита с коминтарием
 ```sh
@@ -79,7 +79,7 @@ git log --onelime
 ```
 Переход к другим состояниям
 ```sh
-git checkout <comitname>
+git checkout <comit_name>
 ```
 ## Работа с ветками
 
