@@ -55,6 +55,10 @@ cp <filename>
 ```sh
 mv <filename> <newfilename>
 ```
+Просмотр изменений файла
+```sh
+git diff
+```
 ## Работа с комитами
 
 Добавление изменения для отслеживания гитом
@@ -74,7 +78,6 @@ git log
 git log --onelime
 ```
 Переход к другим состояниям
-
 ```sh
 git checkout <comitname>
 ```
