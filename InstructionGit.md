@@ -81,3 +81,9 @@ git log --onelime
 ```sh
 git checkout <comitname>
 ```
+## Работа с ветками
+
+Просмотр всех веток
+```sh
+git branch
+```
