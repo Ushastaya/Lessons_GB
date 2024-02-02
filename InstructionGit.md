@@ -91,3 +91,7 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+Переход к другим веткам
+```sh
+git checkout <branch_name>
+```
