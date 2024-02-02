@@ -108,3 +108,5 @@ git branch -d <branch_name>
 ```sh
 git merge <branch_name>
 ```
+
+абра кадабра для устранения кофликта
