@@ -91,3 +91,7 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+Создание удаление ветки
+```sh
+git branch -d <branch_name>
+```
