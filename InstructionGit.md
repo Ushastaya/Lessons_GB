@@ -137,3 +137,15 @@ git remote -v
 ```git
 git push --set-upstream origin <branch_name>
 ```
+Удалить с удаленного репозитория ветку
+```git
+git push origin --delete <branch_name>
+```
+Объеденить локалиные изменения и удаенные изменения
+```git
+git pull --rebase
+```
+Принять изменения по разрешению конфликта
+```git
+git rebase --continue
+```
