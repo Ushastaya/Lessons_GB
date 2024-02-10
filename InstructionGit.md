@@ -127,7 +127,7 @@ git pull
 ```
 Отправить pull requests
 ```git
-git push --set--upstream origin description
+git push --set--upstream origin <branch_name>
 ```
 Предоставляет информацию по удаленному репозиторию
 ```git
