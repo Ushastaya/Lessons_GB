@@ -129,3 +129,7 @@ git pull
 ```git
 git push --set--upstream origin description
 ```
+Предоставляет информацию по удаленному репозиторию
+```git
+git remote -v
+```
