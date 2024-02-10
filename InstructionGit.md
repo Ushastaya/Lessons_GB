@@ -133,3 +133,7 @@ git push --set--upstream origin description
 ```git
 git remote -v
 ```
+Отправить на удаленный репозиторий новую ветку
+```git
+git push --set-upstream origin <branch_name>
+```
