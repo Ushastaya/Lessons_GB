@@ -1,0 +1,15 @@
+E:\GB\Lessons_GB\Lessons7\bin\Debug\net8.0\Lessons7.exe
+E:\GB\Lessons_GB\Lessons7\bin\Debug\net8.0\Lessons7.deps.json
+E:\GB\Lessons_GB\Lessons7\bin\Debug\net8.0\Lessons7.runtimeconfig.json
+E:\GB\Lessons_GB\Lessons7\bin\Debug\net8.0\Lessons7.dll
+E:\GB\Lessons_GB\Lessons7\bin\Debug\net8.0\Lessons7.pdb
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.AssemblyInfoInputs.cache
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.AssemblyInfo.cs
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.csproj.CoreCompileInputs.cache
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.sourcelink.json
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.dll
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\refint\Lessons7.dll
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.pdb
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\Lessons7.genruntimeconfig.cache
+E:\GB\Lessons_GB\Lessons7\obj\Debug\net8.0\ref\Lessons7.dll
