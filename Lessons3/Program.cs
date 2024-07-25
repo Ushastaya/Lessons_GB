@@ -1,5 +1,8 @@
-﻿// Задание 1
-void VvediNumberPokaNeVvedeshChetnoeOrQ()
+﻿#region // Задание 1
+
+EnterUntilYouEnterOutputValue();
+
+void EnterUntilYouEnterOutputValue()
 {
     bool ext = false;
     do
@@ -8,7 +11,7 @@ void VvediNumberPokaNeVvedeshChetnoeOrQ()
         if (GetNumberOrNot(input))
         {
             int writeNumber = Convert.ToInt32(input);
-            ext = GetEvenNumberOrNot(writeNumber);
+            ext = GetSumNumberEvenOrNot(writeNumber);
         }
         else
         {
@@ -30,11 +33,20 @@ bool GetNumberOrNot(string text)
     return false;
 }
 
-bool GetEvenNumberOrNot(int number)
+bool GetSumNumberEvenOrNot(int number)
 {
-    if (number % 2 == 0)
+    int sum = 0;
+    while (number != 0)
+    {
+        int remainder = number % 10;
+        sum = sum + remainder;
+        number = number / 10;
+    }
+    if (sum % 2 == 0)
     {
         return true;
     }
     return false;
 }
+#endregion
+
