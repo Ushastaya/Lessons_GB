@@ -1,0 +1,15 @@
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.AssemblyInfoInputs.cache
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.AssemblyInfo.cs
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.csproj.CoreCompileInputs.cache
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.sourcelink.json
+E:\GB\Lessons_GB\Lessons3\bin\Debug\net8.0\Lessons3.exe
+E:\GB\Lessons_GB\Lessons3\bin\Debug\net8.0\Lessons3.deps.json
+E:\GB\Lessons_GB\Lessons3\bin\Debug\net8.0\Lessons3.runtimeconfig.json
+E:\GB\Lessons_GB\Lessons3\bin\Debug\net8.0\Lessons3.dll
+E:\GB\Lessons_GB\Lessons3\bin\Debug\net8.0\Lessons3.pdb
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.dll
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\refint\Lessons3.dll
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.pdb
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\Lessons3.genruntimeconfig.cache
+E:\GB\Lessons_GB\Lessons3\obj\Debug\net8.0\ref\Lessons3.dll
