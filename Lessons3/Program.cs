@@ -1,8 +1,8 @@
 ﻿#region // Задание 1
 
-//EnterUntilYouEnterOutputValue();
+//Task1();
 
-void EnterUntilYouEnterOutputValue()
+void Task1()
 {
     bool ext = false;
     do
@@ -11,7 +11,6 @@ void EnterUntilYouEnterOutputValue()
         if (GetNumberOrNot(input))
         {
             int writeNumber = Convert.ToInt32(input);
-
             ext = GetNumberEvenOrNot(GetSumNumber(writeNumber));
         }
         else
@@ -57,7 +56,7 @@ bool GetNumberEvenOrNot(int number)
 
 #endregion
 
-#region // Задание 2
+#region // Задание 2 и 3
 
 Task2();
 
@@ -66,7 +65,11 @@ void Task2()
     int arraySize = GetArraySize();
     int[] arrayRandom = RandomMas(new int[arraySize]);
     PrintArray(arrayRandom);
+    Console.Write("Количество чётных чисел в массиве: ");
     Console.WriteLine(GetCoyntEvenNumbers(arrayRandom));
+    arrayRandom = ReverseMas(arrayRandom);
+    Console.WriteLine("Перевернутый массив:");
+    PrintArray(arrayRandom);
 }
 
 int GetCoyntEvenNumbers(int[] array)
@@ -110,6 +113,22 @@ int GetArraySize()
     } while (!GetNumberOrNot(input));
     int writeNumberForMas = Convert.ToInt32(input);
     return writeNumberForMas;
+}
+
+#endregion
+
+#region // Функция для задания 3
+
+int[] ReverseMas(int[] mas)
+{
+    int[] newArray = new int[mas.Length];
+    int k = 0;
+    for (int i = mas.Length - 1; i >= 0; i--)
+    {
+        newArray[k] = mas[i];
+        k++;
+    }
+    return newArray;
 }
 
 #endregion
