@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GB\\Lessons_GB\\Lessons7\\Lessons7.csproj": {}
+    "E:\\GB\\Lessons_GB\\Lessons_GB.csproj": {}
   },
   "projects": {
-    "E:\\GB\\Lessons_GB\\Lessons7\\Lessons7.csproj": {
+    "E:\\GB\\Lessons_GB\\Lessons_GB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GB\\Lessons_GB\\Lessons7\\Lessons7.csproj",
-        "projectName": "Lessons7",
-        "projectPath": "E:\\GB\\Lessons_GB\\Lessons7\\Lessons7.csproj",
+        "projectUniqueName": "E:\\GB\\Lessons_GB\\Lessons_GB.csproj",
+        "projectName": "Lessons_GB",
+        "projectPath": "E:\\GB\\Lessons_GB\\Lessons_GB.csproj",
         "packagesPath": "C:\\Users\\Марина\\.nuget\\packages\\",
-        "outputPath": "E:\\GB\\Lessons_GB\\Lessons7\\obj\\",
+        "outputPath": "E:\\GB\\Lessons_GB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Марина\\AppData\\Roaming\\NuGet\\NuGet.Config"

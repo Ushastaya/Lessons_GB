@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GB\\Lessons_GB\\Lessons1\\Lessons1.csproj",
-      "projectName": "Lessons1",
-      "projectPath": "E:\\GB\\Lessons_GB\\Lessons1\\Lessons1.csproj",
+      "projectUniqueName": "E:\\GB\\Lessons_GB\\Lessons_GB.csproj",
+      "projectName": "Lessons_GB",
+      "projectPath": "E:\\GB\\Lessons_GB\\Lessons_GB.csproj",
       "packagesPath": "C:\\Users\\Марина\\.nuget\\packages\\",
-      "outputPath": "E:\\GB\\Lessons_GB\\Lessons1\\obj\\",
+      "outputPath": "E:\\GB\\Lessons_GB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Марина\\AppData\\Roaming\\NuGet\\NuGet.Config"
